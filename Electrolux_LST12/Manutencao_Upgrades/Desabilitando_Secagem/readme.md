@@ -1,0 +1,1 @@
+Desabilitando secagem e mantendo placa de interface operacional.

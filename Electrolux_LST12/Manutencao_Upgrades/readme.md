@@ -1,0 +1,1 @@
+Correção de defeitos e realizando upgrades nas placas da Lavadora Electrolux LST12.
